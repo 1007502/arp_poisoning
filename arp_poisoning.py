@@ -203,6 +203,7 @@ def main():
     while True:
         start = input('\nEnter (0) to start the ARP poisoning\n')
         if start == 0:
+            #Start persistantly poisoning the victim
             print '\nARP poisoning attack started'
             print 'Kill this process to stop the program.'
             while True:
