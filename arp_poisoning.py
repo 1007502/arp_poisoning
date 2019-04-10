@@ -1,3 +1,8 @@
+#ARP poisoning tool
+#Ivo Geenen, 1007502
+#Jeroen Kivits, 1011599
+
+
 #import statements
 from scapy.config import conf
 #disable ipv6
